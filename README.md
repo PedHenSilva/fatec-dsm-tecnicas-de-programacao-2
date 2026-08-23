@@ -1,9 +1,7 @@
 # 🎓 FATEC - Desenvolvimento de Software Multiplataforma (DSM)
 ## Disciplina: Técnicas de Programação II
 
-Este repositório foi criado para armazenar e organizar todos os projetos e atividades desenvolvidos durante a disciplina de **Técnicas de Programação I** do curso de DSM da FATEC.
-
-A disciplina foca no estudo aprofundado de padrões de projeto (Design Patterns) aplicados utilizando JavaScript e Python.
+Disciplina que foca no estudo aprofundado de padrões de projeto (Design Patterns) aplicados utilizando JavaScript e Python.
 
 ### 👨‍🎓 Aluno
 - **Nome:** [Pedro Henrique Oliveira Silva]
