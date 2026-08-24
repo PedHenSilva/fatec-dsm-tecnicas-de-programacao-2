@@ -16,3 +16,27 @@
 | ✅ | [Projeto 02: Sistema de Pedidos (Subway)](./projeto-02-pedidos-subway/) | Sistema de pedidos de lanches. | GoF Criacional - Builder |
 
 > *Acesse a pasta de cada projeto para ler as instruções detalhadas de execução e visualizar o código-fonte.*
+---
+
+## 💻 Como Clonar e Executar o Repositório
+
+1.  **Abra o terminal** ou o Git Bash no diretório onde deseja salvar o projeto.
+2.  **Execute o comando de clonagem:**
+   
+    ```bash
+    git clone [https://github.com/PedHenSilva/fatec-dsm-tecnicas-de-programacao-2.git](https://github.com/PedHenSilva/fatec-dsm-tecnicas-de-programacao-2.git)
+
+3.  **Acesse a pasta do projeto:**
+   
+    ```bash
+    cd fatec-dsm-tecnicas-de-programacao-2
+
+4. **Execute os arquivos**
+
+> Arquivo Python (.py)
+  ```bash
+    python nome_do_arquivo.py
+  ```
+> Arquivo JavaScript (.js)
+  ```bash
+    node nome_do_arquivo.js
