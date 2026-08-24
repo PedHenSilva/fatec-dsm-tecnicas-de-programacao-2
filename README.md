@@ -1,7 +1,7 @@
-# 🎓 FATEC - Desenvolvimento de Software Multiplataforma (DSM)
-## Disciplina: Técnicas de Programação II
+# FATEC - Técnicas de Programação II (DSM) 
 
-Disciplina que foca no estudo aprofundado de padrões de projeto (Design Patterns) aplicados utilizando JavaScript e Python.
+> Disciplina que foca no estudo aprofundado de padrões de projeto (Design Patterns). <br> <br>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ### 👨‍🎓 Aluno
 - **Nome:** [Pedro Henrique Oliveira Silva]
