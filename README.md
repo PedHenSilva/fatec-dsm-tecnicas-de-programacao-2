@@ -15,6 +15,8 @@
 | ✅ | [Projeto 01: Cadastro de Pessoas (Portaria)](./projeto-01-cadastro-portaria/) | Sistema de cadastro de acessos. | GoF Criacional - Factory Method |
 | ✅ | [Projeto 02: Sistema de Pedidos (Subway)](./projeto-02-pedidos-subway/) | Sistema de pedidos de lanches Subway. | GoF Criacional - Builder |
 | ✅ | [Projeto 03: Sistema de Pedidos (McDonalds)](./projeto-03-pedidos-mcdonalds/) | Sistema de pedidos de McOfertas. | GoF Criacional - Prototype |
+| ✅ | [Projeto 05: Sistema de Validação e Controle de Acesso](./projeto-05-controlador-de-acesso/) | Sistema de Validação e Controle com CRUD. | GoF Comportamental - Chain |
+
 
 > *Acesse a pasta de cada projeto para ler as instruções detalhadas de execução e visualizar o código-fonte.*
 ---
